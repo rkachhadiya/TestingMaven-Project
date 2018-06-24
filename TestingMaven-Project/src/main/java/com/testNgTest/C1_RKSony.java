@@ -12,8 +12,8 @@ public class C1_RKSony {
 
 		System.out.println("Consider this RKSony 0624_01");
 		
-		System.out.println("updated under branch RKcomp0624_1");
-		System.out.println("Added boolean by branch RKSony 0624_01");
+		System.out.println("Don't consider this RKSony0624_1");
+		System.out.println("Consider this RKSony 0624_01");
 
 	}
 	
