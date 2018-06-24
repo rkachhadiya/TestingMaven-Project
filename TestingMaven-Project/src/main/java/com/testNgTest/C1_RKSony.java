@@ -14,7 +14,7 @@ public class C1_RKSony {
 	
 	@Test
 	public void testing(){
-		System.out.println("Created test by RKsony in Branch 2306");
+		System.out.println("Updated by RKComputer under branch 2306_1");
 	}
 
 }
