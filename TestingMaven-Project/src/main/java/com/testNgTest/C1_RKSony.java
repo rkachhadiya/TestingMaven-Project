@@ -12,13 +12,13 @@ public class C1_RKSony {
 
 		System.out.println("This is code from rk sony computer");
 		
-		System.out.println("Added boolean by RKSony under branch 2306_01");
+		System.out.println("updated under branch RKcomp0624_1");
 
 	}
 	
 	@Test
 	public void testing(){
-		System.out.println("Updated by RKComputer under branch 2306_1");
+		System.out.println("Updated by RKComputer under branch 0624_01");
 	}
 
 }
