@@ -8,7 +8,7 @@ public class C1_RKSony {
 	@BeforeTest
 	public void setUpBrowser(){
 
-		System.out.println("This line has been updated by RKSony 0624_01");
+		System.out.println("Don't consider this line change 0624_01");
 
 		System.out.println("This is code from RKSony 0624_01");
 		
