@@ -7,9 +7,13 @@ public class C1_RKSony {
 	
 	@BeforeTest
 	public void setUpBrowser(){
+
+		System.out.println("This line has been updated by RKComputer2306_1 branch");
+
 		System.out.println("This is code from rk sony computer");
 		
 		System.out.println("Added boolean by RKSony under branch 2306_01");
+
 	}
 	
 	@Test
