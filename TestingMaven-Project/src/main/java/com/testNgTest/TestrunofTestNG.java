@@ -23,6 +23,7 @@ public class TestrunofTestNG {
 	public void testMethod() throws Exception{
 		System.out.println("Chrome launched sucessfully");
 		Thread.sleep(10000);
+		System.out.println("Running by RKComputer under 2306_1 branch");
 	}
 	
 	@AfterTest
