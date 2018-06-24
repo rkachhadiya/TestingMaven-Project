@@ -10,6 +10,8 @@ public class TestSelenium {
 		//System.setProperty("webdriver.firefox.marionette", arg1);
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://google.com");
+		
+		System.out.println("driver launched with 0624_01");
 	}
 
 }
