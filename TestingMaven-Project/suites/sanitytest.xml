@@ -2,7 +2,9 @@
 <suite name="Example test run">
   <test name="Simple Test">
     <classes>
-      <class name="com.testNgTest.TestrunofTestNG"/>
+      <class name="com.testClass.TestrunofTestNG"/>
+      <class name="com.testClass.C1_RKSony"/>
+      <class name="com.testClass.Test1"/>
     </classes>
   </test>
 </suite>
