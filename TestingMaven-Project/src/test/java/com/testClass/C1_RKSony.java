@@ -21,7 +21,7 @@ public class C1_RKSony {
 	@Test
 	public void testing(){
 		System.out.println("Updated by RKComputer under branch 0624_01");
-		System.out.println(10/0);
+		//System.out.println(10/0);
 	}
 	
 	@AfterClass

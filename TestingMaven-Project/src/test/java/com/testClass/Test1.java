@@ -11,8 +11,8 @@ public class Test1 {
 	@BeforeTest
 	private void setUpDriver(){
 		System.out.println("Testing class of RKsony 2306");
-		WebDriver driver = new FirefoxDriver();
-		driver.get("https://google.com");
+		/*WebDriver driver = new FirefoxDriver();
+		driver.get("https://google.com");*/
 	}
 	
 
