@@ -1,5 +1,6 @@
 package com.testClass;
 
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -21,6 +22,11 @@ public class C1_RKSony {
 	public void testing(){
 		System.out.println("Updated by RKComputer under branch 0624_01");
 		System.out.println(10/0);
+	}
+	
+	@AfterClass
+	public void afterMethod() {
+		System.out.println("This is after method.");
 	}
 
 }
