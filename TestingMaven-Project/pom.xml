@@ -27,7 +27,7 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.18.1</version>
 				<goals>
-         			<goal>package</goal>
+         			<goal>compile</goal>
        			</goals>
 				<configuration>
 					<suiteXmlFiles>
