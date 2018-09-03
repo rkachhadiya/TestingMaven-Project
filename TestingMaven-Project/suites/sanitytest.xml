@@ -1,8 +1,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Example test run">
+<suite name="Example test run" configfailurepolicy="continue">
   <test name="Simple Test">
     <classes>
-      <class name="com.testNgTest.TestrunofTestNG"/>
+      <class name="com.testClass.TestrunofTestNG"/>
+      <class name="com.testClass.C1_RKSony"/>
+      <class name="com.testClass.Test1"/>
     </classes>
   </test>
 </suite>
